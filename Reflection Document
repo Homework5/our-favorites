@@ -1,0 +1,15 @@
+4. We learned how to create an organization and repository within Github. **Note: we have returned to number 4 because we don’t understand why we cannot push a file to our repository. We are following the steps but having trouble understanding the flow conceptually. **UPDATE: videos and workflow instructions reviewed, figured it out.
+
+5. Erika assigned contributor first.
+
+6. Erika and Ibook will contribute to the repository Brian created. Joining the organization was not difficult, but we did not remember how to do this, so it was helpful. 
+
+7. Ibook assigned contributor and will now join organization.
+
+8. - 9. Done. Brian has made assigned himself to issue #1. **UPDATE: We were having trouble and created multiple repositories. We found success with repository our-favorites. We had to follow line by the line the instructions for the contribution workflow and finally got it to work.
+
+11. Brian was the contributor and Ibook was the maintainer. Brian and Ibook tried to figure out how to alter the pull request but was unable to so Ibook merged the pull request. Through figuring this task out Ibook and Brian found out how to close an Issue. 
+
+13. Ibook and Brian both created on their forks three additional files successfully. We were able to create local files on our computer and add these files through the terminal to Github. 
+
+15. Ibook and Brian tried to figure out how to resolve the conflicts. Ibook initially merged 3 files (favorite-books.txt, favorite-sports.txt, favorite-movies.txt) on his local forked repo. Brian created the same three files on his local repo as well and created a pull request. This caused a conflict. Brian figured out how to resolve this first so he ended up resolving his own pull request while Ibook spectated. 
